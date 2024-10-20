@@ -81,7 +81,7 @@ The repository contains preprocessed datasets for both **Cyberbullying detection
 jupyter notebook Cyberbullying.ipynb
 ```
 
-## Expected Results
+## Observed Results
 
 - **Cyberbullying Detection**:
   - CNN and Random Forest models achieve accuracy of around 91% to 93%.
