@@ -1,6 +1,7 @@
 # IGD and Cyberbullying Detection: A Deep Learning Approach
 
 This repository contains the source code and datasets used for the research paper titled **"A Novel Machine Learning & Deep Learning Approach Based Dataset Efficacy Study in Predicting Mental Health Outcomes from Internet Gaming Disorder and Cyberbullying"**.
+[https://doi.org/10.6084/m9.figshare.27266961]
 
 ## Table of Contents
 
